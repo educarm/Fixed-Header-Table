@@ -1,0 +1,30 @@
+{
+  "name": "Fixed-Header-Table",
+  "version": "0.0.81",
+  "description": "",
+  "author": "https://github.com/markmalek",
+  "license": "MIT",
+  "homepage": "https://github.com/markmalek/Fixed-Header-Table",
+  "main":"jquery.fixedheadertable.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "playground",
+    "test",
+    "libs",
+    "docs",
+    "zip",
+    "src",
+    "starter",
+    "Gruntfile.js",
+    "index.html",
+    "jsdoc.conf.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": "~1.x"
+  },
+  "devDependencies": {
+  }
+}
